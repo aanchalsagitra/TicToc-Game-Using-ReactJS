@@ -2,7 +2,7 @@
 
 The Tic-Toc game created with React.js is an exciting two-player game where players take turns marking their respective symbols, 'X' and 'O', on a 3x3 grid. The objective of the game is to be the first player to form a straight line (horizontal, vertical, or diagonal) with their symbols.
 
-Once the game starts, the players take turns making their moves by clicking on an empty cell in the grid. The game keeps track of the player's turns and updates the grid accordingly. If a player successfully forms a line with their symbols, the game ends, and a victory message is displayed, indicating the winning player.
+Once the game starts, the players take turns making their moves by clicking on an empty cell in the grid. The game keeps track of the player's turns and updates the grid accordingly. If a player successfully forms a line with their symbols, the game ends, and a victory message is displayed on the screen, indicating the winning player.
 
 However, if none of the players manages to form a winning line after all the cells have been filled, the game ends with a message stating "No one wins". In such a scenario, the players can restart the game by clicking on the restart button provided.
 
