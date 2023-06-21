@@ -1,4 +1,4 @@
-# Getting Started with Tic-Toc-Game-Using_react
+# Getting Started with Tic-Toc-Game-Using-React
 
 The Tic-Toc game created with React.js is an exciting two-player game where players take turns marking their respective symbols, 'X' and 'O', on a 3x3 grid. The objective of the game is to be the first player to form a straight line (horizontal, vertical, or diagonal) with their symbols.
 
